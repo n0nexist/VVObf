@@ -17,6 +17,7 @@ best php obfuscator (up to php 7.4)
 ```
 $ python3 main.py
 ```
+<br><br>
 <b>STEP-2</b><br>
 <i>Insert your php code and the output file's location</i><br>
 ![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)<br><br><br>
