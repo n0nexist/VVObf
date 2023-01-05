@@ -11,13 +11,13 @@ best php obfuscator (up to php 7.4)
 </ul>
 
 # Usage
-<ol>
-<li>Start VVObf using python3</li>
+
+<b>Start VVObf using python3<br>
 ```
 $ python3 main.py
 ```
-<li>Insert your php code and the output file's location</li>
-![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)
-<li>Your code now is absolute chaos</li>
+Insert your php code and the output file's location<br>
+![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)<br>
+Your code now is absolute chaos<br>
 ![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo2.png?raw=true)
-</ol>
+
