@@ -12,12 +12,15 @@ best php obfuscator (up to php 7.4)
 
 # Usage
 
-<b>Start VVObf using python3<br>
+<b>STEP-1</b><br>
+<i>Start VVObf using python3</i><br>
 ```
 $ python3 main.py
 ```
-Insert your php code and the output file's location<br>
+<b>STEP-2</b><br>
+<i>Insert your php code and the output file's location</i><br>
 ![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)<br>
-Your code now is absolute chaos<br>
+<b>STEP-3</b><br>
+<i>Your code now is absolute chaos</i><br>
 ![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo2.png?raw=true)
 
