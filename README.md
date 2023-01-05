@@ -19,7 +19,7 @@ $ python3 main.py
 ```
 <b>STEP-2</b><br>
 <i>Insert your php code and the output file's location</i><br>
-![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)<br>
+![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo1.png?raw=true)<br><br><br>
 <b>STEP-3</b><br>
 <i>Your code now is absolute chaos</i><br>
 ![alt-text](https://github.com/n0nexist/VVObf/blob/main/photo2.png?raw=true)
